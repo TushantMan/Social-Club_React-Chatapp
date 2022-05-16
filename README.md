@@ -1,5 +1,5 @@
 # Social Club (Realtime Chat Application)
-## [See Live Preview](https://social-club.netlify.app/)
+
 
 ## Social Club (Realtime Chat Application)
 
